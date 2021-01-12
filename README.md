@@ -1,6 +1,6 @@
 # MM React Test
 
-Create a web application used to display the preferred playlists from customers. The web application has only one page:
+Create a web and app application used to display the preferred playlists from customers. The web application has only one page:
 * A page that lists the featured playlists at Spotify according to some criteria.
 
 ## Business rules
